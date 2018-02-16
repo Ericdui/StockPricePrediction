@@ -1,5 +1,3 @@
-# Stock Price Prediction (UCLA CS145 project)
-This project is the course project from CS145 in UCLA.
 
 # Get start
 First, install tweepy:
@@ -31,3 +29,6 @@ To crawl the real time Tweets, type command
 
 To crawl the stock price, type command
 >python src/GetDJIA/djia.py --symbol='GOOG' --since='2017-01-01' --until='2017-10-01'
+
+# Train
+Run NN and other model
